@@ -2,6 +2,9 @@
 
 A modern iOS cryptocurrency portfolio management application built with SwiftUI, featuring real-time portfolio tracking, exchange functionality, and comprehensive transaction management.
 
+Demo: https://drive.google.com/file/d/1kw-1qSWhd-nYBYrlHBvDvrb_V7Cjg7MM/view?usp=share_link
+
+
 ## 🏗️ Project Structure
 
 ```
